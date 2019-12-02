@@ -5,7 +5,7 @@
   become: true
 
   vars:
-    repo: https://gitlab.com/olexandr.maltsev/hello
+    repo: https://github.com/olexandr-maltsev-work/hello
     repo_dir: '/opt/hello'
     packages:
       - nginx
